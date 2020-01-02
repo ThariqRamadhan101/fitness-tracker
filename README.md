@@ -14,7 +14,7 @@ Fitness Tracker is a tool for Elders to see fitness by counting the number of st
 
 ## Result
 
-
+![Result](/Result.jpg)
 
 ## Authors
 
